@@ -1,6 +1,6 @@
 # Bienvenue au Camp Bruchési
 
-Bienvenue sur la documentation officielle du Camp Bruchési. Vous trouverez ici toutes les informations nécessaires sur nos séjours, services, et comment nous contacter.
+Camp de jour, camp de vacances et sorties scolaires pour les jeunes de **4 à 14 ans**, situé sur le bord du **lac de l'Achigan** dans les Laurentides depuis **1928**.
 
 ## Navigation rapide
 
@@ -8,13 +8,13 @@ Bienvenue sur la documentation officielle du Camp Bruchési. Vous trouverez ici 
 
 - :material-calendar-star: **Séjours**
 
-    Découvrez nos programmes de séjours pour tous les âges.
+    Programmes de vacances pour tous les groupes d'âge (4–14 ans).
 
     [:octicons-arrow-right-24: Voir les séjours](sejours/index.md)
 
 - :material-tools: **Services**
 
-    Hébergement, activités, restauration et plus encore.
+    Hébergement, activités, restauration et transport.
 
     [:octicons-arrow-right-24: Voir les services](services/index.md)
 
@@ -26,7 +26,7 @@ Bienvenue sur la documentation officielle du Camp Bruchési. Vous trouverez ici 
 
 - :material-phone: **Contact**
 
-    Coordonnées et formulaire de contact.
+    **(450) 563-3056** · info@campbruchesi.ca
 
     [:octicons-arrow-right-24: Nous contacter](contact.md)
 
@@ -34,19 +34,6 @@ Bienvenue sur la documentation officielle du Camp Bruchési. Vous trouverez ici 
 
 ## À propos du Camp Bruchési
 
-Situé à **Saint-Hippolyte dans les Laurentides**, le Camp Bruchési offre des expériences inoubliables en plein air depuis plus de 80 ans. Notre mission est de créer des souvenirs durables dans un environnement sûr et stimulant.
+Le Camp Bruchési est un organisme à but non lucratif (Plein air Bruchési, fondé en 2007) opérant sur une propriété de plus de 5 millions de pieds carrés comprenant **16 bâtiments patrimoniaux**. Le camp accueille les jeunes de la région depuis plus de 100 ans.
 
-## Nos tarifs
-
-| Programme | Durée | Tarif |
-|-----------|-------|-------|
-| Camp de vacances | 1 semaine | à partir de **695$** |
-| Camp de jour | 1 semaine | à partir de **295$** |
-| Groupes scolaires | Selon forfait | à partir de **75$/personne** |
-| Groupes familiaux | Selon forfait | Sur demande |
-
-## Contactez-nous
-
-- **Téléphone** : 450-563-2505
-- **Courriel** : info@campbruchesi.com
-- **Adresse** : 801 chemin du Camp Bruchési, Saint-Hippolyte, QC J8A 3K9
+Sa mission : permettre aux jeunes et aux familles de vivre des expériences mémorables dans un cadre naturel exceptionnel, à travers une grande diversité d'activités sportives, artistiques et culturelles.

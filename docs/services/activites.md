@@ -1,31 +1,36 @@
 # Activités
 
-## Activités de plein air
+La propriété du Camp Bruchési couvre plus de **5 millions de pieds carrés** sur les rives du lac de l'Achigan, avec 16 bâtiments patrimoniaux et de nombreuses zones d'activités.
 
-| Activité | Âge minimum | Niveau |
-|----------|-------------|--------|
-| Kayak | 8 ans | Débutant–Intermédiaire |
-| Escalade | 9 ans | Débutant–Avancé |
-| Randonnée | 6 ans | Tous niveaux |
-| Tir à l'arc | 8 ans | Débutant |
-| Natation | 6 ans | Selon niveau |
-| Vélo de montagne | 10 ans | Intermédiaire |
-| Orienteering | 10 ans | Débutant–Intermédiaire |
+## Activités de plein air et sportives
 
-## Activités créatives
+| Activité | Notes |
+|----------|-------|
+| Natation / baignade | Lac de l'Achigan · 6 sauveteurs nationaux certifiés · test de natation obligatoire |
+| Canot et kayak | Sur le lac de l'Achigan |
+| Paddleboard | Surtout programme Décampe |
+| Tir à l'arc | Zone dédiée sur le site |
+| Escalade / grimpe | Mur d'escalade sur le site |
+| Vélo / cyclotourisme | Sentier P'tit Train du Nord (programme Décampe) |
+| Randonnée et orientation | Sentiers sur le terrain du camp |
+| Pêche | Lac de l'Achigan |
 
-- Peinture et arts visuels
-- Musique et chant
-- Théâtre et improvisation
-- Photographie nature
-- Cuisine en plein air
+## Activités créatives et culturelles
+
+- Arts visuels et peinture
+- Ateliers sciences de la nature
+- Activités culturelles et artistiques variées
 
 ## Activités de groupe
 
-- Chasse au trésor
-- Olympiades
-- Soirée cinéma sous les étoiles
-- Feu de camp et contes
+- Jeux coopératifs et compétitifs
+- Soirées thématiques
+- Feu de camp
+- Activités soirée du jeudi (programme camp de jour, en option)
 
-!!! note "Sécurité"
-    Toutes les activités aquatiques et en hauteur sont encadrées par des moniteurs certifiés. Des équipements de sécurité appropriés sont fournis.
+## Sécurité aquatique
+
+!!! warning "Test de natation obligatoire"
+    Tous les campeurs doivent passer un test de natation à leur arrivée. Les activités aquatiques sont supervisées par **6 sauveteurs nationaux** certifiés en tout temps.
+
+    Le système **Hop Hop** est utilisé pour la vérification des départs et de la prise en charge des enfants.

@@ -1,26 +1,30 @@
 # Hébergement
 
+## Le site
+
+Le Camp Bruchési est situé sur une propriété de plus de **5 millions de pieds carrés** sur les rives du **lac de l'Achigan** à Saint-Hippolyte. Le site comprend **16 bâtiments patrimoniaux** répartis dans un environnement naturel exceptionnel.
+
 ## Options d'hébergement
 
-### Chalets
+### Bâtiments et chalets
 
-Nos chalets peuvent accueillir de 8 à 12 participants. Ils sont équipés de :
+Le camp dispose de plusieurs bâtiments pouvant accueillir groupes scolaires, camps de vacances et groupes corporatifs. Pour les séjours de vacances, les campeurs sont hébergés dans des chalets supervisés par des moniteurs.
 
-- Lits superposés avec matelas
-- Casiers individuels fermés à clé
-- Salle de bain partagée
-- Chauffage et ventilation
+### Camping et plein air
 
-### Camping
+Certains programmes spécialisés incluent des nuitées en plein air (camping, tentes) dans le cadre d'activités d'aventure.
 
-Pour les programmes senior, des emplacements de camping structuré sont disponibles :
+## Programmes nécessitant l'hébergement
 
-- Tentes 4 places fournies
-- Accès aux sanitaires communs
-- Eau potable à proximité
+- **Camps de vacances** (Bourlingueurs, Aventuriers, Argonautes, Mavericks, Prospecteur) — séjours avec nuitées
+- **Répit – Weekend** — séjours de fin de semaine avec hébergement
+- **Groupes scolaires** (Classes-vertes, Classes-neige) — hébergement disponible
 
-## Règles d'hébergement
+## Programmes sans hébergement
 
-- Couvre-feu à 22h pour les 6–12 ans, 23h pour les 13–17 ans
-- Chaque participant est responsable de son espace
-- Les visiteurs ne sont pas admis dans les zones d'hébergement
+- **Camp de jour** (Décampe, Gamer, etc.) — retour à la maison chaque jour
+- **Sorties scolaires** — visite à la journée
+
+## Réservation pour groupes
+
+Pour les réservations de chalets ou de groupes, contactez-nous au **(450) 563-3056** ou à [info@campbruchesi.ca](mailto:info@campbruchesi.ca).
