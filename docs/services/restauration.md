@@ -2,31 +2,45 @@
 
 ## Camp de vacances
 
-Pour les camps avec hébergement, les repas sont inclus dans le tarif du séjour. Les menus sont adaptés aux besoins alimentaires des campeurs.
+Trois repas équilibrés par jour, plus deux collations. Le menu suit un **cycle rotatif de 2 semaines** approuvé par une diététiste.
 
-## Camp de jour — Service de dîner (optionnel)
+- **Option végétarienne** : toujours disponible à chaque repas
+- **Option végane** : non disponible
+- **Bar à salade et crudités** : accessible à chaque repas
 
-Pour les programmes de camp de jour, un service de dîner par traiteur est disponible en option :
+### Allergies et restrictions — Camp de vacances
 
-| Service | Tarif |
-|---------|-------|
-| Dîner traiteur | **62,50 $/semaine** |
+!!! warning "Allergies non supportées"
+    Le camp ne peut **pas** accommoder les allergies suivantes en camp de vacances :
+    - Produits laitiers
+    - Protéine bovine
+    - Soya
+    - Maladie coeliaque
 
-!!! tip "Lunch apporté"
-    Les campeurs peuvent aussi apporter leur propre dîner.
+    Pour toute allergie sévère, un auto-injecteur (EpiPen) et un plan d'action médical doivent être remis à l'arrivée. Un **responsable de santé est présent en permanence** sur le site.
 
-## Restrictions alimentaires
+---
 
-Veuillez indiquer toutes les allergies et restrictions alimentaires lors de l'inscription. L'équipe en tiendra compte pour la gestion des repas.
+## Camp de jour — Dîner (optionnel)
 
-!!! warning "Allergies sévères"
-    Pour les allergies anaphylactiques, veuillez fournir un plan d'action médical et un auto-injecteur (EpiPen) lors de l'arrivée au camp.
+Les campeurs de jour peuvent apporter leur propre lunch ou commander le service de dîner traiteur :
 
-## Horaires des repas (camp de vacances)
+| Programme | Tarif dîner |
+|-----------|-------------|
+| Découverte / Prospecteur / Décampe | **62,50 $**/semaine |
+| Gamer / Sauveteur | **67,50 $**/semaine |
 
-Les horaires détaillés sont communiqués aux familles avant le début du séjour.
+---
 
-## Contact
+## Programmes saisonniers
 
-Pour toute question concernant les repas ou les restrictions alimentaires :
-[info@campbruchesi.ca](mailto:info@campbruchesi.ca) · **(450) 563-3056**
+- **Camp de Noël, Répit Weekend, Relâche** : repas inclus dans le tarif, préparés selon les mêmes standards
+- **Classes vertes / neige** : repas inclus selon le forfait choisi (journée avec dîner : +42 $ / enfant pour classes vertes; inclus dans les séjours avec nuitée)
+
+---
+
+## Contact pour restrictions alimentaires
+
+Toutes les allergies et restrictions alimentaires **doivent être déclarées lors de l'inscription** via le portail CampBrain.
+
+Pour toute question : [info@campbruchesi.ca](mailto:info@campbruchesi.ca) · **(450) 563-3056**
