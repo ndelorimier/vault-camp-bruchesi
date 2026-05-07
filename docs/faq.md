@@ -20,7 +20,15 @@ Oui, si un séjour est complet, vous pouvez vous inscrire sur la liste d'attente
 
 ### Quel âge minimum est requis ?
 
-Les séjours sont disponibles pour les participants âgés de 6 à 17 ans. Des groupes distincts sont organisés par tranches d'âge pour une expérience adaptée.
+Le camp de vacances accueille les enfants de **6 à 15 ans**. Pour le camp de jour, l'âge minimum est de 5 ans. Des groupes distincts sont organisés par tranches d'âge pour une expérience adaptée.
+
+### Quels sont les tarifs ?
+
+- **Camp de vacances (1 semaine)** : à partir de 695$
+- **Camp de jour (1 semaine)** : à partir de 295$
+- **Groupes scolaires** : à partir de 75$/personne selon le forfait
+
+Un plan de paiement en plusieurs versements est disponible. Nous acceptons Visa, Mastercard, virement Interac et chèque.
 
 ### Les participants peuvent-ils choisir leurs activités ?
 

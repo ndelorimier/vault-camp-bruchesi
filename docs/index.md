@@ -34,4 +34,19 @@ Bienvenue sur la documentation officielle du Camp Bruchési. Vous trouverez ici 
 
 ## À propos du Camp Bruchési
 
-Le Camp Bruchési est un camp de plein air offrant des expériences inoubliables pour les jeunes et les familles. Notre mission est de créer des souvenirs durables dans un environnement sûr et stimulant.
+Situé à **Saint-Hippolyte dans les Laurentides**, le Camp Bruchési offre des expériences inoubliables en plein air depuis plus de 80 ans. Notre mission est de créer des souvenirs durables dans un environnement sûr et stimulant.
+
+## Nos tarifs
+
+| Programme | Durée | Tarif |
+|-----------|-------|-------|
+| Camp de vacances | 1 semaine | à partir de **695$** |
+| Camp de jour | 1 semaine | à partir de **295$** |
+| Groupes scolaires | Selon forfait | à partir de **75$/personne** |
+| Groupes familiaux | Selon forfait | Sur demande |
+
+## Contactez-nous
+
+- **Téléphone** : 450-563-2505
+- **Courriel** : info@campbruchesi.com
+- **Adresse** : 801 chemin du Camp Bruchési, Saint-Hippolyte, QC J8A 3K9
