@@ -45,6 +45,30 @@ Le Camp Bruchési offre des tarifs réduits pour les familles qui en ont besoin.
 
 ---
 
-## Politique d'annulation
+## Politique d'annulation — Camp de jour
 
-Pour les conditions d'annulation et de remboursement, consultez le portail d'inscription ou contactez le camp au **(450) 563-3056**.
+!!! warning "Annulation par le camp"
+    Un remboursement total est émis **uniquement** si c'est le camp qui annule (inscriptions insuffisantes ou force majeure).
+
+| Moment de l'annulation | Conséquence |
+|------------------------|-------------|
+| Avant le 1er avril | Frais fixes de **60 $** |
+| Après le 1er avril | **40 $ par semaine** annulée |
+| Dans les 14 jours avant la semaine | **Aucun remboursement** |
+| Raison médicale (attestation requise) | Remboursement complet |
+| Force majeure | Remboursement complet |
+
+---
+
+## Politique d'annulation — Camp de vacances
+
+!!! warning "Annulation par le camp"
+    Un remboursement total est émis **uniquement** si c'est le camp qui annule.
+
+| Moment de l'annulation | Remboursement |
+|------------------------|---------------|
+| Plus de 90 jours avant le séjour | **100 %** |
+| 45 à 90 jours avant | **75 %** |
+| 31 à 44 jours avant | **50 %** |
+| Moins de 30 jours avant | **Aucun remboursement** |
+| Raison médicale (confirmation du médecin requise) | Remboursement complet |
