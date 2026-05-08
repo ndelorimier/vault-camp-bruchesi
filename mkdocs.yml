@@ -36,8 +36,11 @@ nav:
   - Accueil: index.md
   - Séjours:
     - Vue d'ensemble: sejours/index.md
-    - Calendrier: sejours/calendrier.md
-    - Inscription: sejours/inscription.md
+    - Calendrier 2026: sejours/calendrier.md
+    - Tarifs et inscription: sejours/inscription.md
+    - Transport: sejours/transport.md
+    - Quoi apporter: sejours/quoi-apporter.md
+    - Groupes scolaires: sejours/groupes-scolaires.md
   - Services:
     - Vue d'ensemble: services/index.md
     - Hébergement: services/hebergement.md
@@ -45,6 +48,16 @@ nav:
     - Restauration: services/restauration.md
   - FAQ: faq.md
   - Contact: contact.md
+  - Formation (Staff):
+    - Vue d'ensemble: formation/index.md
+    - Guide nouvel animateur: formation/nouveau-animateur.md
+    - Code d'éthique: formation/code-ethique.md
+    - Protocoles:
+      - Urgences et sécurité: formation/protocoles/urgences.md
+      - Signalement d'abus: formation/protocoles/signalement.md
+      - Santé et médicaments: formation/protocoles/sante.md
+      - Garde de nuit: formation/protocoles/garde-nuit.md
+    - Ressources d'aide: formation/ressources-aide.md
 
 extra:
   social:
