@@ -41,6 +41,9 @@ nav:
     - Transport: sejours/transport.md
     - Quoi apporter: sejours/quoi-apporter.md
     - Groupes scolaires: sejours/groupes-scolaires.md
+    - Accueil corporatif: sejours/corporatif.md
+    - Emploi: sejours/emploi.md
+    - Mission et valeurs: sejours/mission-valeurs.md
   - Services:
     - Vue d'ensemble: services/index.md
     - Hébergement: services/hebergement.md
@@ -48,6 +51,8 @@ nav:
     - Restauration: services/restauration.md
   - FAQ: faq.md
   - Contact: contact.md
+  - Intégrations:
+    - Zoom Virtual Agent: integration/zoom-virtual-agent.md
   - Formation (Staff):
     - Vue d'ensemble: formation/index.md
     - Guide nouvel animateur: formation/nouveau-animateur.md

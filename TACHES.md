@@ -29,47 +29,69 @@
 
 ---
 
-## 🌐 Domaine et intégrations
+## ✅ Session 2026-05-08 — Vault public Phase 1 + Formation staff Phase 2
 
-- [ ] **Configurer un domaine custom** (ex : `docs.campbruchesi.ca` ou `kb.campbruchesi.ca`)
-  - Dans GitHub : Settings → Pages → Custom domain
-  - Chez le registraire DNS : ajouter un CNAME `ndelorimier.github.io`
-- [ ] **Connecter Zoom Virtual Agent (ZVA)** via Web Sync
-  - Configurer la source de données ZVA → pointer vers `https://ndelorimier.github.io/vault-camp-bruchesi/`
-  - Valider l'indexation des pages (FAQ, séjours, services)
-  - Tester les réponses du bot sur les questions fréquentes
-
----
-
-## 📄 Contenu à ajouter
-
-- [ ] **Page Los Bruchos** — décrire le programme (informations manquantes)
-- [ ] **Page Répits Plus** — décrire le programme
-- [ ] **Page Transport** — points de ramassage autobus par programme et ville
-  - Arrêts Décampe mentionnés : Lac Connoly, IGA Saint-Hippolyte, Restaurant Foccacia, IGA Prévost, Place de la station
-- [ ] **Page Groupes scolaires** dédiée — classes vertes, classes rouges, classes neige avec détails pédagogiques
-- [ ] **Page Corporatif / Accueil de groupes** — offre d'entreprise, team building
-- [ ] **Page Emploi** — postes disponibles, conditions, comment postuler
-- [ ] **Page Campement scouts/cadets** — conditions, capacité, tarifs
-- [ ] **Sous-pages par programme vacances** (Bourlingueurs, Aventuriers, etc.)
-  - Ce qui est inclus, une nuit camping, dortoirs, etc.
-- [ ] **Page Mission et valeurs** — histoire depuis 1928, OBNL Plein air Bruchési, conseil d'administration
+- [x] docs/sejours/transport.md (arrêts Décampe : Lac Connoly, IGA Saint-Hippolyte, Foccacia, IGA Prévost, Place de la station)
+- [x] docs/sejours/quoi-apporter.md (listes par programme)
+- [x] docs/sejours/groupes-scolaires.md (classes vertes/neige, tarifs)
+- [x] docs/formation/index.md
+- [x] docs/formation/nouveau-animateur.md
+- [x] docs/formation/code-ethique.md
+- [x] docs/formation/protocoles/urgences.md
+- [x] docs/formation/protocoles/signalement.md
+- [x] docs/formation/protocoles/sante.md
+- [x] docs/formation/protocoles/garde-nuit.md
+- [x] docs/formation/ressources-aide.md
 
 ---
 
-## 🎨 Améliorations du site
+## ✅ Session 2026-05-11 — Contenu complémentaire + Plan ZVA
 
-- [ ] Ajouter des photos/images dans les pages (logo du camp, photos d'activités)
-- [ ] Vérifier rendu mobile (MkDocs Material est responsive par défaut)
-- [ ] Ajouter un `favicon` aux couleurs du camp
-- [ ] Configurer `extra.analytics` (Google Analytics ou Plausible) si souhaité
-- [ ] Revoir la navigation : envisager des onglets pour Camp de jour / Camp de vacances
+- [x] docs/sejours/transport.md — ajout arrêts réels Décampe
+- [x] docs/sejours/mission-valeurs.md
+- [x] docs/sejours/emploi.md
+- [x] docs/sejours/corporatif.md
+- [x] Navigation mkdocs.yml mise à jour (toutes nouvelles pages)
+- [x] Plan d'intégration Zoom Virtual Agent documenté → voir `docs/integration/zoom-virtual-agent.md`
+
+---
+
+## 🌐 Priorité — Zoom Virtual Agent
+
+Voir le plan complet : [docs/integration/zoom-virtual-agent.md](docs/integration/zoom-virtual-agent.md)
+
+**Ce que tu dois faire (accès requis) :**
+1. [ ] Accéder au portail Zoom Admin : admin.zoom.us
+2. [ ] Activer Zoom Virtual Agent dans les produits
+3. [ ] Créer un bot et configurer Web Sync → URL : `https://ndelorimier.github.io/vault-camp-bruchesi/`
+4. [ ] Tester avec les questions de référence (voir plan)
+5. [ ] Déployer sur le canal de ton choix (site web, Zoom chat)
+
+**Optionnel mais recommandé avant :**
+- [ ] Domaine personnalisé (`docs.campbruchesi.ca`) pour une URL plus propre dans ZVA
+
+---
+
+## 📄 Contenu manquant (nécessite info de ta part)
+
+- [ ] **Page Los Bruchos** — informations du programme non disponibles
+- [ ] **Page Répits Plus** — informations du programme non disponibles
+- [ ] **Points de ramassage complets** — arrêts pour autres programmes (camp de jour Découverte, camp de vacances)
+- [ ] **Sous-pages par programme vacances** — si tu veux des pages dédiées détaillées
+
+---
+
+## 🎨 Améliorations visuelles (optionnel)
+
+- [ ] Logo du camp + favicon
+- [ ] Photos d'activités dans les pages
+- [ ] Domaine personnalisé (`docs.campbruchesi.ca` ou `kb.campbruchesi.ca`)
+- [ ] Analytics (Google Analytics ou Plausible)
 
 ---
 
 ## 🔄 Maintenance continue
 
-- [ ] Mettre à jour les tarifs et calendriers pour la saison 2027
+- [ ] Mettre à jour tarifs et calendrier pour la saison 2027 (novembre 2026)
 - [ ] Valider les informations avec l'équipe avant chaque saison
-- [ ] Ajouter les nouveaux programmes si le camp en crée
-- [ ] Synchroniser les conditions d'annulation si elles changent
+- [ ] Synchroniser conditions d'annulation si elles changent

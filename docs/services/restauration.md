@@ -10,14 +10,16 @@ Trois repas équilibrés par jour, plus deux collations. Le menu suit un **cycle
 
 ### Allergies et restrictions — Camp de vacances
 
-!!! warning "Allergies non supportées"
-    Le camp ne peut **pas** accommoder les allergies suivantes en camp de vacances :
+!!! danger "Allergies non accommodées en camp de vacances"
+    Les allergies suivantes **ne peuvent pas être accommodées** en camp de vacances (séjour avec nuitées) en raison des contraintes de cuisine collective :
     - Produits laitiers
     - Protéine bovine
     - Soya
-    - Maladie coeliaque
+    - Maladie coeliaque (gluten)
 
-    Pour toute allergie sévère, un auto-injecteur (EpiPen) et un plan d'action médical doivent être remis à l'arrivée. Un **responsable de santé est présent en permanence** sur le site.
+    Si votre enfant souffre de l'une de ces allergies, contactez le camp pour explorer les options de **camp de jour** ou de programmes alternatifs — ces programmes peuvent offrir plus de flexibilité.
+
+    Pour toute allergie anaphylactique (non listée ci-dessus), un EpiPen et un plan d'action médical signé par un médecin doivent être remis à l'arrivée. Un **responsable de santé est présent en permanence** sur le site.
 
 ---
 
@@ -41,6 +43,6 @@ Les campeurs de jour peuvent apporter leur propre lunch ou commander le service 
 
 ## Contact pour restrictions alimentaires
 
-Toutes les allergies et restrictions alimentaires **doivent être déclarées lors de l'inscription** via le portail CampBrain.
+Toutes les allergies et restrictions alimentaires **doivent être déclarées lors de l'inscription** via le portail CampBrain — y compris les allergies non accommodées listées ci-dessus, afin que le camp puisse aviser la famille si l'inscription n'est pas possible pour le programme choisi.
 
 Pour toute question : [info@campbruchesi.ca](mailto:info@campbruchesi.ca) · **(450) 563-3056**

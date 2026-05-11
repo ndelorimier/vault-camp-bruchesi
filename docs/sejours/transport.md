@@ -4,9 +4,19 @@ Le Camp Bruchési offre un service d'autobus depuis plusieurs points de ramassag
 
 ---
 
-## Points de ramassage
+## Points de ramassage — Programme Décampe
 
-Les points de ramassage peuvent varier selon la saison et le programme. Contactez le camp pour confirmer les points disponibles pour votre session.
+Les arrêts connus pour le programme **Décampe** (camp de jour) sont :
+
+| Arrêt | Lieu |
+|-------|------|
+| Lac Connoly | Lac Connoly |
+| IGA Saint-Hippolyte | Saint-Hippolyte |
+| Restaurant Foccacia | Secteur Prévost |
+| IGA Prévost | Prévost |
+| Place de la station | Secteur Saint-Jérôme |
+
+Les points de ramassage pour les autres programmes peuvent varier selon la saison. Contactez le camp pour confirmer les arrêts disponibles pour votre session et votre ville.
 
 **Pour information :** **(450) 563-3056** · [info@campbruchesi.ca](mailto:info@campbruchesi.ca)
 

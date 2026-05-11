@@ -2,7 +2,12 @@
 
 ## Camps de vacances — Dortoirs
 
-Les campeurs des programmes de vacances logent dans des **dortoirs unisexes à aire ouverte** pouvant accueillir environ 25 campeurs par salle (jusqu'à 70 pour les Bourlingueurs). Deux moniteurs assurent la surveillance de nuit dans chaque dortoir.
+Les campeurs des programmes de vacances logent dans des **dortoirs unisexes à aire ouverte**, avec deux moniteurs par dortoir assurant la surveillance de nuit. La capacité varie par programme :
+
+| Programme | Hébergement |
+|-----------|-------------|
+| Bourlingueurs (4–6 ans) | Grande salle collective (~70 campeurs avec leurs moniteurs) |
+| Aventuriers, Argonautes, Mavericks | Dortoirs de ~25 campeurs |
 
 **Une nuit en camping sous tente est incluse** dans tous les programmes de vacances.
 
