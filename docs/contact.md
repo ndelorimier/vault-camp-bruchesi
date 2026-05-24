@@ -16,6 +16,11 @@
 
 Pour toute demande d'information, d'inscription ou de partenariat, écrivez-nous à [info@campbruchesi.ca](mailto:info@campbruchesi.ca) ou appelez-nous au **(450) 563-3056**.
 
+| Sujet | Contact |
+|-------|---------|
+| Informations générales, inscriptions | [info@campbruchesi.ca](mailto:info@campbruchesi.ca) |
+| Activités et programmation (classes natures) | [sheroux@campbruchesi.ca](mailto:sheroux@campbruchesi.ca) |
+
 !!! info "Délai de réponse"
     Nous répondons généralement dans les 2 jours ouvrables.
 

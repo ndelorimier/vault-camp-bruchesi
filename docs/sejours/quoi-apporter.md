@@ -81,6 +81,47 @@ Liste de bagages recommandée selon le type de programme. En cas de doute, conta
 
 ---
 
+## Classes natures — Sortie scolaire
+
+### ☀️ Journée plein air (sans nuitée)
+
+| Article | Notes |
+|---------|-------|
+| Lunch froid | Pas d'accès au micro-onde · **sans noix ni arachides** |
+| Vêtements pour jouer dehors | Peut faire plus frais en nature qu'en ville |
+| Imperméable | Activités par tous les temps |
+| Souliers de sport | Obligatoire |
+| Sac à dos de jour | Avec gourde d'eau réutilisable |
+| Casquette ou chapeau | Protection soleil |
+| Crème solaire et insectifuge | En crème, pas en aérosol |
+
+**Interdits :** Arachides et noix · Appareils électroniques
+
+**Médicaments :** Aucun élève ne peut avoir de médicaments sur lui. Tous remis à l'accompagnateur. Exceptions : pompes d'asthme et crèmes.
+
+---
+
+### 🌙 Séjour (avec nuitée)
+
+**En plus de la liste journée plein air :**
+
+| Article | Notes |
+|---------|-------|
+| Vêtements de rechange | Prévoir plusieurs tenues + imperméable |
+| Vêtements longs | Protection insectes et soleil |
+| Sac de linge sale | À placer sur le dessus dans le sac |
+| Hygiène personnelle | Douche incluse pour les séjours de **2 nuits seulement** |
+| Brosse à dents, dentifrice, savon, shampoing | — |
+| Serviettes sanitaires / tampons | Si applicable |
+| Literie | Sac de couchage ou couverture + drap contour + oreiller |
+| Lampe de poche + piles de rechange | — |
+| Médicaments | Dans un pilulier remis à l'enseignant · nom et posologie clairement indiqués |
+| EpiPen (si allergie) | Dans un sac banane, porté en tout temps |
+
+**Important :** Faire le sac **avec** l'enfant. Identifier tous les effets personnels au nom de l'enfant. Vérifier qu'aucun médicament (même en vente libre) ne se trouve dans la valise — exceptions : pompes d'asthme et crèmes.
+
+---
+
 ## Camp de jour — Liste simplifiée
 
 | Article | Notes |

@@ -27,21 +27,49 @@ Le Camp Bruchési dispose d'une propriété de plus de **5 millions de pieds car
 - Tir à l'arc
 - Escalade / grimpe
 - Hébertisme
+- Sentinelle
+- Course d'orientation
+- Capture de flag
+- Survie en forêt
 - Randonnée et orientation en forêt
+- Disque-golf
+- Volleyball
+- Terrain multi-sport (soccer, basket, ballon-balais)
 - Pêche (programmes Prospecteur et Décampe)
 - Cyclotourisme sur le P'tit Train du Nord (programme Décampe — 70 km)
 - Cuisson sur feu de bois
 - Techniques de survie forestière
 - Fabrication de bâton de marche
 - Patinage, glissade sur tube, raquette (programmes hivernaux)
-- Ballon-balai
+
+## Activités nautiques
+
+- Baignade libre au lac de l'Achigan
+- Rabaska
+- Kayak (2–3 personnes)
+- Canot (**13 ans et +** — prérequis d'âge)
+- Paddleboard (programme Décampe)
 
 ## Activités créatives et culturelles
 
 - Arts visuels
 - Sciences de la nature
+- Brico-nature
+- Impro-théâtre
+- Rallye photo
 - Ateliers thématiques
 - Kermesse
+
+## L'expérience camp
+
+- Feu de camp animé
+- Légendes
+- Chants
+- Jeux de pogne
+- Apparitions thématiques
+- Grands jeux
+- Olympiades
+- Bal des finissants (6e année — spécialité du camp)
 
 ## Formation — Programme Sauveteur
 
