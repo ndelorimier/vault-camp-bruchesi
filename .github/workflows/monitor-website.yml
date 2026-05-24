@@ -1,0 +1,49 @@
+name: Surveillance site web
+
+on:
+  schedule:
+    # Chaque lundi à 9h00 UTC (5h00 heure de l'Est)
+    - cron: '0 9 * * 1'
+  workflow_dispatch:
+    # Permet de déclencher manuellement depuis l'onglet Actions
+
+jobs:
+  check-website:
+    name: Vérifier les changements sur campbruchesi.ca
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write   # Pour mettre à jour website-snapshots.json
+      issues: write     # Pour créer des GitHub Issues
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Installer les dépendances
+        run: pip install requests beautifulsoup4
+
+      - name: Vérifier les changements sur le site
+        id: check
+        run: python .github/scripts/check_website.py
+
+      - name: Créer une issue si des changements sont détectés
+        if: steps.check.outputs.changes == 'true'
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          gh issue create \
+            --title "🔔 Changements détectés sur campbruchesi.ca — $(date '+%Y-%m-%d')" \
+            --body-file /tmp/issue_body.txt
+
+      - name: Sauvegarder les snapshots mis à jour
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add .github/website-snapshots.json
+          git diff --cached --quiet || git commit -m "chore: mise à jour snapshots surveillance site web [skip ci]"
+          git push
