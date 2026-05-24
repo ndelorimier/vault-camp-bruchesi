@@ -1,24 +1,36 @@
 # Transport
 
-Le Camp Bruchési offre un service d'autobus depuis plusieurs points de ramassage dans la région de Montréal et les Laurentides. Le transport est optionnel — les familles peuvent également déposer et récupérer leur enfant directement au camp.
+Le Camp Bruchési offre un **service de navette hebdomadaire** pour le camp de jour, depuis plusieurs points de ramassage dans le secteur Saint-Jérôme / Prévost. Le transport est optionnel — les familles peuvent également déposer et récupérer leur enfant directement au camp.
 
 ---
 
-## Points de ramassage — Programme Décampe
+## Service de navette — Camp de jour
 
-Les arrêts connus pour le programme **Décampe** (camp de jour) sont :
+**Tarif : 60 $ + taxes / semaine**
 
-| Arrêt | Lieu |
-|-------|------|
-| Lac Connoly | Lac Connoly |
-| IGA Saint-Hippolyte | Saint-Hippolyte |
-| Restaurant Foccacia | Secteur Prévost |
-| IGA Prévost | Prévost |
-| Place de la station | Secteur Saint-Jérôme |
+La route passe par Saint-Hippolyte, Prévost et Saint-Jérôme.
 
-Les points de ramassage pour les autres programmes peuvent varier selon la saison. Contactez le camp pour confirmer les arrêts disponibles pour votre session et votre ville.
+### Horaire de ramassage (matin)
 
-**Pour information :** **(450) 563-3056** · [info@campbruchesi.ca](mailto:info@campbruchesi.ca)
+| Heure | Arrêt |
+|-------|-------|
+| 7h30 | Lac Connelly |
+| 7h45 | Bureau de poste — Saint-Hippolyte |
+| 8h00 | Restaurant Focaccia |
+| 8h15 | IGA Prévost |
+| 8h30 | Place de la station |
+
+### Horaire de retour (soir)
+
+| Heure | Arrêt |
+|-------|-------|
+| 16h30 | Lac Connelly |
+| 16h45 | Bureau de poste — Saint-Hippolyte |
+| 17h00 | Restaurant Focaccia |
+| 17h15 | IGA Prévost |
+| 17h30 | Place de la station |
+
+Le transport est disponible pour les programmes de camp de jour. L'option s'ajoute au tarif du programme lors de l'inscription sur CampBrain.
 
 ---
 
@@ -40,7 +52,7 @@ Saint-Hippolyte, QC J8A 2Y6
 
 ## Tarif transport
 
-Le tarif de transport par autobus varie selon le trajet. Il est indiqué lors de l'inscription sur CampBrain et s'ajoute au tarif du programme.
+**60 $ + taxes par semaine** — s'ajoute au tarif du programme lors de l'inscription sur CampBrain.
 
 ---
 

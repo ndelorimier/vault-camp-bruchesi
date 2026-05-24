@@ -29,7 +29,14 @@ Du **28 juillet au 21 août**.
 
 ### PAM — Aspirant-moniteur
 
-4 semaines consécutives (dates à confirmer — contacter le camp).
+Programme de **4 semaines consécutives / 26 nuits**, disponible à plusieurs moments durant l'été. Les participants choisissent leur session de 4 semaines parmi les disponibilités suivantes :
+
+| Session | Semaines couvertes |
+|---------|--------------------|
+| Session A | 28 juin – 24 juillet |
+| Session B | 28 juillet – 21 août |
+
+Pour les dates exactes et les disponibilités, consulter [campbruchesi.ca](https://www.campbruchesi.ca/camp-de-vacances-pam/) ou contacter le camp.
 
 ---
 
