@@ -74,8 +74,27 @@ Pour les dates exactes et les disponibilités, consulter [campbruchesi.ca](https
 - **Camp de jour** : 2–6 mars 2026
 
 ### Répit – Weekend
-Weekends thématiques de septembre 2025 à juin 2026 (Halloween, Noël, carnaval, etc.).
+
+**Tarifs :** 265 $ / weekend (séjour 2 nuits, 5 repas) · 110 $ / jour (8h–17h, lunch inclus)
+
 Arrivée : vendredi 19h · Départ : dimanche 16h.
+
+#### Calendrier 2025–2026
+
+| Dates | Thème |
+|-------|-------|
+| 19–21 septembre 2025 | Bienvenue automne |
+| 3–5 octobre 2025 | Bienvenue automne |
+| 24–26 octobre 2025 | Thanksgiving |
+| 14–16 novembre 2025 | Late Halloween |
+| 28–30 novembre 2025 | Préparation Noël |
+| 24–26 janvier 2026 | Aventures hivernales |
+| 7–9 février 2026 | Saint-Valentin |
+| 14–16 mars 2026 | Carnaval |
+| 28–30 mars 2026 | Pâques & Printemps |
+| 11–13 avril 2026 | Exploration nature |
+| 25–27 avril 2026 | Semaine de la Terre |
+| 13–15 juin 2026 | Clôture printemps |
 
 ### Camp de Noël
 | Session | Dates | Séjour | Jour |

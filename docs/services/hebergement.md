@@ -35,29 +35,41 @@ Le Manoir a été rénové pour accueillir les **programmes Répit Weekend, Camp
 | **Chambres** | 13 chambres (lits superposés et doubles) |
 | **Cuisine** | Cuisine commerciale complète (lave-vaisselle commercial, BBQ) |
 | **Équipements** | WiFi, poêle à bois, projecteur + écran, terrasse extérieure |
-| **Tarif location** | À partir de **1 200 $**/nuit (repas en sus) |
+| **Tarif location** | Sur demande — contacter le camp |
 | **Arrivée / départ** | Arrivée dès 16h · Départ avant 11h |
 | **Literie** | **Non fournie** — apporter ses propres draps et oreiller |
+| **Âge minimum** | 21 ans (location privée) |
+| **Accès activités** | **16,50 $**/jour/participant |
+
+### Politique d'annulation — Manoir
+
+La politique d'annulation fonctionne en 4 paliers selon le délai d'avis (de 100 % à 0 % de remboursement). Contacter le camp pour connaître les conditions précises.
 
 ---
 
 ## Maison du lac
 
-| Option | Capacité | Tarif |
-|--------|----------|-------|
-| Maison du lac — standard | 10–14 pers | À partir de **300 $**/nuit (min. 30 nuits) |
-| Maison du lac — Famille d'accueil | 10–14 pers | À partir de **450 $**/nuit (min. 2 nuits) |
+La Maison du lac est disponible en deux formules :
+
+| Option | Capacité | Conditions |
+|--------|----------|-----------|
+| Location seule | 10–14 personnes (5 chambres) | Minimum **31 nuits** |
+| Avec forfait activités | 10–14 personnes (5 chambres) | **16,50 $**/jour/participant · min. 2 nuits |
+
+**Âge minimum :** 21 ans
 
 ---
 
-## Campement groupes (scouts, cadets)
+## Campement — Groupes scouts, cadets, organismes
 
 Accueil de groupes sur le terrain pour campements en autonomie.
 
 | Caractéristique | Détail |
 |----------------|--------|
-| **Capacité** | 20–60 personnes |
-| **Tarif** | À partir de **300 $**/nuit (min. 30 nuits) |
+| **Tentes disponibles** | 10 tentes Prospecteur (6–8 personnes chacune) |
+| **Capacité maximale** | 60 personnes |
+| **Tarif** | **250 $**/nuit + **16,50 $**/jour/participant |
+| **Couvre-feu** | 21h |
 
 ---
 

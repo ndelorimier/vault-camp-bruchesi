@@ -48,7 +48,10 @@ Le PAM est une combinaison unique : les participants paient pour une formation c
 
 ## Avantages de travailler au camp
 
-- Hébergement et repas inclus (camp de vacances)
+- **Hébergement sur place** de mai à octobre (logement fourni pendant toute la saison active)
+- **Repas inclus** pendant les périodes de travail
+- **Activités pour les employés** plusieurs fois par semaine (accès aux installations du camp)
+- **Rabais famille 20 %** pour les proches immédiats sur les programmes du camp
 - Certifications reconnues (DAFA, PAM, premiers soins)
 - Expérience significative pour les futures candidatures (éducation, travail social, plein air)
 - Environnement de travail exceptionnel — lac, forêt, équipe jeune

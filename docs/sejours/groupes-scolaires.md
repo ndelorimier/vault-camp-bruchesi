@@ -28,7 +28,19 @@ Le Camp Bruchési accueille les groupes scolaires pour des **classes natures** t
 | Forfait | Tarif |
 |---------|-------|
 | Journée seulement | **23,50 $**/enfant |
-| 1 nuit / 2 jours | **125 $**/personne |
+| 1 nuit / 2 jours | **115,50 $**/personne |
+| 2 nuits / 3 jours | **195,25 $**/personne |
+
+---
+
+## Tarifs — Classes rouges (automne)
+
+*Mêmes tarifs que les classes neige.*
+
+| Forfait | Tarif |
+|---------|-------|
+| Journée seulement | **23,50 $**/enfant |
+| 1 nuit / 2 jours | **115,50 $**/personne |
 | 2 nuits / 3 jours | **195,25 $**/personne |
 
 ---
@@ -198,6 +210,14 @@ Le Camp Bruchési est spécialiste des **bals de finissants de 6e année** !
 - Service aux tables avec menu adapté aux participants
 - Animation de la danse par les animateurs du camp
 - Des souvenirs pour la vie
+
+**Options supplémentaires (classes vertes) :**
+
+| Option | Tarif |
+|--------|-------|
+| Bal des finissants | **16,50 $**/enfant |
+| T-shirt souvenir | **15 $**/enfant |
+| Activité supplémentaire | **6 $**/enfant/activité |
 
 Pour des demandes particulières, mentionnez-les lors de l'envoi de vos documents obligatoires.
 

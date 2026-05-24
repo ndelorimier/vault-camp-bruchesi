@@ -2,9 +2,19 @@
 
 ## À propos du Camp Bruchési
 
-Le Camp Bruchési accueille les jeunes de la région depuis **plus de 100 ans** (fondé en 1928). Le site est situé en bordure du **lac de l'Achigan** à Saint-Hippolyte, dans les Laurentides, sur une propriété de plus de **5 millions de pieds carrés** comprenant **16 bâtiments patrimoniaux**.
+Le Camp Bruchési accueille les jeunes de la région depuis **plus de 100 ans**. Le site est situé en bordure du **lac de l'Achigan** à Saint-Hippolyte, dans les Laurentides, sur une propriété de plus de **5 millions de pieds carrés** comprenant **16 bâtiments patrimoniaux**.
 
 L'organisation est gérée par **Plein air Bruchési**, un organisme à but non lucratif (OBNL) fondé en 2007.
+
+### Histoire
+
+Le secteur du lac de l'Achigan attire les Montréalais depuis la fin des années **1800**, alors que des maisons de pension accueillaient les travailleurs de la ville cherchant à fuir la chaleur estivale.
+
+Au début du **XXe siècle**, de grandes entreprises comme **Bell et Eaton** y établissent des camps de vacances pour leurs employés, profitant du cadre naturel exceptionnel des Laurentides.
+
+Dans les **années 1960–1970**, les installations se transforment progressivement vers la vocation récréative pour les jeunes, jetant les bases du camp tel qu'il existe aujourd'hui.
+
+En **2007**, la structure légale actuelle est formalisée sous le nom **Plein air Bruchési**, OBNL, assurant la pérennité et la mission à but non lucratif de l'organisation.
 
 ---
 
@@ -37,8 +47,19 @@ Beaucoup d'animateurs sont d'anciens campeurs. Le PAM (Programme aspirant-monite
 
 **Nom légal :** Plein air Bruchési
 **Statut :** Organisme à but non lucratif (OBNL)
-**Fondation :** 2007 (pour la structure légale actuelle) · Opérations depuis 1928
+**Fondation :** 2007 (pour la structure légale actuelle) · Opérations depuis le début du XXe siècle
 **Siège social :** 50, 365e Avenue, Saint-Hippolyte, QC J8A 2Y6
+
+### Conseil d'administration
+
+| Poste | Membre |
+|-------|--------|
+| Président intérimaire | Marc-Antoine de Lorimier |
+| Administrateur | Mathieu Loiselle |
+| Administratrice | Émilie Mailhiot |
+| Administratrice | Louise Melançon |
+| Administrateur | Maxime Beaudoin |
+| Administratrice | Élise Ouellette |
 
 ---
 
