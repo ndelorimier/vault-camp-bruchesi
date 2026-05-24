@@ -28,9 +28,9 @@ Le **relevé de prestations familiales** du gouvernement (avis de cotisation ou 
 
 ## Rabais famille
 
-En plus du programme d'accessibilité financière, des **rabais dégressifs par fratrie** s'appliquent automatiquement lors de l'inscription :
+Un **rabais de 50 %** s'applique automatiquement pour le **3e et 4e enfant d'une même famille**, sur **tous les programmes** du camp (camp de vacances, camp de jour, programmes saisonniers).
 
-- Consultez les tarifs en vigueur sur [campbruchesi.ca](https://campbruchesi.ca) ou contactez le camp pour les détails par programme.
+Ce rabais s'applique lors de l'inscription via CampBrain — les enfants doivent être inscrits sous le même compte familial.
 
 ---
 
