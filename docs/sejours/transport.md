@@ -56,12 +56,25 @@ Saint-Hippolyte, QC J8A 2Y6
 
 ---
 
+## Service d'autobus — Camp de vacances
+
+Le camp offre un autobus au départ de Montréal pour les sessions de camp de vacances.
+
+| | |
+|--|--|
+| **Point de départ** | 6000, boulevard Henri-Bourassa Est, Montréal |
+| **Heure de départ** | 13h00 |
+| **Retour** | Entre 11h00 et 12h00 au même point |
+
+Pour le tarif et la disponibilité selon la session, s'inscrire via CampBrain ou contacter le camp.
+
+---
+
 ## Arrivée et départ
 
 ### Camp de vacances
-- **Arrivée :** selon le calendrier de chaque session (voir [Calendrier 2026](calendrier.md))
-- **Départ :** dernière journée du séjour, heure confirmée avant l'arrivée
-- Les familles qui déposent directement peuvent le faire à l'heure indiquée à l'inscription
+- **Autobus Montréal :** départ 6000 Henri-Bourassa Est à 13h00 — retour entre 11h et 12h
+- **Dépôt direct au camp :** à l'heure indiquée à l'inscription sur CampBrain
 
 ### Camp de jour
 - **Horaire régulier :** 9h–16h
