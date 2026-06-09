@@ -85,11 +85,21 @@ C'est l'étape centrale : ZVA va crawler le vault et construire sa base de conna
 
 ### Pages à exclure du Web Sync
 
-La section **Formation (Staff)** ne devrait pas être indexée par ZVA public — elle contient du contenu interne. Ajouter ces URL en **exclusions** dans la config Web Sync :
+!!! danger "Exclusion obligatoire — à faire dans ZVA, PAS via robots.txt"
+    Le site est hébergé sur des **GitHub Pages de projet** (sous-dossier `/vault-camp-bruchesi/`). Le fichier `robots.txt` n'est donc **pas** servi à la racine du domaine et **n'est pas lu** par les crawlers, incluant le Web Sync de ZVA.
+
+    **L'exclusion doit obligatoirement être configurée dans le Web Sync de ZVA** (champ « Exclure les URL » / « Exclude patterns »).
+
+La section **Formation (Staff)** contient du contenu interne et ne doit **jamais** être indexée par le bot public. La page **Intégration** (méta-documentation) non plus. Ajouter ces motifs d'exclusion dans Web Sync :
 
 ```
-https://ndelorimier.github.io/vault-camp-bruchesi/formation/
+https://ndelorimier.github.io/vault-camp-bruchesi/formation/*
+https://ndelorimier.github.io/vault-camp-bruchesi/integration/*
 ```
+
+**Vérification après indexation :** poser au bot une question interne (ex. « Quelle est la procédure de signalement d'abus ? »). Si le bot répond avec le contenu de `/formation/`, l'exclusion a échoué — revoir la config Web Sync.
+
+> 💡 Avec un **domaine personnalisé** (ex. `docs.campbruchesi.ca`) servi à la racine, le `robots.txt` deviendrait alors effectif comme protection supplémentaire — mais l'exclusion ZVA reste la méthode qui fait autorité.
 
 ---
 
@@ -193,13 +203,14 @@ Dans le portail ZVA → **Analytiques** → **Questions non résolues**
 ## Résumé — Ce que tu dois faire
 
 ```
-1. [ ] Vérifier que tu as une licence ZVA dans ton compte Zoom
+1. [x] Licence ZVA confirmée active
 2. [ ] Créer le bot (10 min)
 3. [ ] Configurer Web Sync → URL du vault (5 min)
-4. [ ] Exclure /formation/ du crawl (2 min)
+4. [ ] Exclure /formation/* et /integration/* DANS ZVA (2 min) ← obligatoire
 5. [ ] Attendre l'indexation (15 min)
 6. [ ] Tester les 10 questions de référence (20 min)
-7. [ ] Déployer sur le canal de ton choix
+7. [ ] Vérifier qu'aucun contenu /formation/ ne fuit
+8. [ ] Déployer sur le canal de ton choix
 ```
 
 **Durée totale estimée : ~1 heure** une fois la licence confirmée.

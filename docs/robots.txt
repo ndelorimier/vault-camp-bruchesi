@@ -1,5 +1,10 @@
-User-agent: *
-Disallow: /formation/
+# NOTE : sur GitHub Pages de projet (sous-dossier /vault-camp-bruchesi/),
+# ce fichier n'est PAS servi à la racine du domaine, donc les crawlers
+# (incl. Zoom Virtual Agent Web Sync) ne le lisent pas.
+# L'exclusion de /formation/ DOIT être faite dans la config Web Sync de ZVA.
+# Ce robots.txt deviendra effectif uniquement avec un domaine personnalisé
+# (ex. docs.campbruchesi.ca) servi à la racine.
 
 User-agent: *
+Disallow: /formation/
 Allow: /
