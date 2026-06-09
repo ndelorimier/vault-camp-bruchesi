@@ -2118,9 +2118,18 @@ Réponse générée + lien vers la page source
 </tbody>
 </table>
 <h3 id="pages-a-exclure-du-web-sync">Pages à exclure du Web Sync</h3>
-<p>La section <strong>Formation (Staff)</strong> ne devrait pas être indexée par ZVA public — elle contient du contenu interne. Ajouter ces URL en <strong>exclusions</strong> dans la config Web Sync :</p>
-<pre><code>https://ndelorimier.github.io/vault-camp-bruchesi/formation/
+<p>!!! danger "Exclusion obligatoire — à faire dans ZVA, PAS via robots.txt"
+    Le site est hébergé sur des <strong>GitHub Pages de projet</strong> (sous-dossier <code>/vault-camp-bruchesi/</code>). Le fichier <code>robots.txt</code> n'est donc <strong>pas</strong> servi à la racine du domaine et <strong>n'est pas lu</strong> par les crawlers, incluant le Web Sync de ZVA.</p>
+<pre><code>**L'exclusion doit obligatoirement être configurée dans le Web Sync de ZVA** (champ « Exclure les URL » / « Exclude patterns »).
 </code></pre>
+<p>La section <strong>Formation (Staff)</strong> contient du contenu interne et ne doit <strong>jamais</strong> être indexée par le bot public. La page <strong>Intégration</strong> (méta-documentation) non plus. Ajouter ces motifs d'exclusion dans Web Sync :</p>
+<pre><code>https://ndelorimier.github.io/vault-camp-bruchesi/formation/*
+https://ndelorimier.github.io/vault-camp-bruchesi/integration/*
+</code></pre>
+<p><strong>Vérification après indexation :</strong> poser au bot une question interne (ex. « Quelle est la procédure de signalement d'abus ? »). Si le bot répond avec le contenu de <code>/formation/</code>, l'exclusion a échoué — revoir la config Web Sync.</p>
+<blockquote>
+<p>💡 Avec un <strong>domaine personnalisé</strong> (ex. <code>docs.campbruchesi.ca</code>) servi à la racine, le <code>robots.txt</code> deviendrait alors effectif comme protection supplémentaire — mais l'exclusion ZVA reste la méthode qui fait autorité.</p>
+</blockquote>
 <hr />
 <h2 id="etape-4-configurer-les-intentions-intents">Étape 4 — Configurer les intentions (intents)</h2>
 <p>Après l'indexation, tester et créer des intentions pour les questions les plus fréquentes. ZVA peut suggérer des intentions automatiquement à partir du contenu crawlé.</p>
@@ -2273,13 +2282,14 @@ Réponse générée + lien vers la page source
 <p>Dans le portail ZVA → <strong>Analytiques</strong> → <strong>Questions non résolues</strong></p>
 <hr />
 <h2 id="resume-ce-que-tu-dois-faire">Résumé — Ce que tu dois faire</h2>
-<pre><code>1. [ ] Vérifier que tu as une licence ZVA dans ton compte Zoom
+<pre><code>1. [x] Licence ZVA confirmée active
 2. [ ] Créer le bot (10 min)
 3. [ ] Configurer Web Sync → URL du vault (5 min)
-4. [ ] Exclure /formation/ du crawl (2 min)
+4. [ ] Exclure /formation/* et /integration/* DANS ZVA (2 min) ← obligatoire
 5. [ ] Attendre l'indexation (15 min)
 6. [ ] Tester les 10 questions de référence (20 min)
-7. [ ] Déployer sur le canal de ton choix
+7. [ ] Vérifier qu'aucun contenu /formation/ ne fuit
+8. [ ] Déployer sur le canal de ton choix
 </code></pre>
 <p><strong>Durée totale estimée : ~1 heure</strong> une fois la licence confirmée.</p>
 
