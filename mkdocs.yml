@@ -53,7 +53,8 @@ nav:
   - FAQ: faq.md
   - Contact: contact.md
   - Intégrations:
-    - Zoom Virtual Agent: integration/zoom-virtual-agent.md
+    - Zoom Virtual Agent (chat): integration/zoom-virtual-agent.md
+    - Réceptionniste IA (téléphone): integration/ai-receptionist-telephone.md
   - Formation (Staff):
     - Vue d'ensemble: formation/index.md
     - Guide nouvel animateur: formation/nouveau-animateur.md
