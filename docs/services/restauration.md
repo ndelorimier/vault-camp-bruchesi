@@ -19,7 +19,7 @@ Trois repas équilibrés par jour, plus deux collations. Le menu suit un **cycle
 
     Si votre enfant souffre de l'une de ces allergies, contactez le camp pour explorer les options de **camp de jour** ou de programmes alternatifs — ces programmes peuvent offrir plus de flexibilité.
 
-    Pour toute allergie anaphylactique (non listée ci-dessus), un EpiPen et un plan d'action médical signé par un médecin doivent être remis à l'arrivée. Un **responsable de santé est présent en permanence** sur le site.
+    Pour toute allergie anaphylactique (non listée ci-dessus), deux auto-injecteurs (EpiPen) et un plan d'action médical signé par un médecin doivent être remis à l'arrivée. Un **responsable de santé est présent en permanence** sur le site.
 
 ---
 

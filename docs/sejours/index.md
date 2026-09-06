@@ -92,8 +92,9 @@ Service de garde **gratuit** : 7h30–9h et 16h–17h30.
 |------|--------|
 | 1er enfant | Tarif régulier |
 | 2e enfant | **–20 %** |
-| 3e enfant | **–50 %** |
-| 4e enfant | **Gratuit** (Prospecteur, Décampe, PAM) ou **–50 %** |
+| 3e enfant et les suivants | **–50 %** |
+
+Le rang suit le prix des programmes, du plus cher au moins cher. Applicable au camp de jour comme au camp de vacances.
 
 ---
 

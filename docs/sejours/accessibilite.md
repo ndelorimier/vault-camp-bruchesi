@@ -1,6 +1,6 @@
 # Accessibilité financière
 
-Le Camp Bruchési croit que la situation financière d'une famille ne devrait jamais être un obstacle à la participation d'un enfant. Un programme de tarification différenciée est disponible pour les familles qui en ont besoin.
+Le Camp Bruchési croit que la situation financière d'une famille ne devrait jamais être un obstacle à la participation d'un enfant. Un programme de tarification différenciée est disponible pour les familles qui en ont besoin, uniquement pour le camp de séjour d'été.
 
 ---
 
@@ -10,8 +10,8 @@ Le Camp Bruchési croit que la situation financière d'une famille ne devrait ja
 
 ### Admissibilité
 
-- Disponible pour les programmes de **camp de vacances uniquement**
-- Non applicable au camp de jour, aux programmes saisonniers ou aux activités parascolaires
+- Disponible pour le **camp de séjour d'été uniquement**
+- Non applicable au camp de jour, au Camp de Noël, au Répit – Weekend, aux autres programmes saisonniers ou aux activités parascolaires
 
 ### Document requis
 
@@ -28,7 +28,7 @@ Le **relevé de prestations familiales** du gouvernement (avis de cotisation ou 
 
 ## Rabais famille
 
-Un **rabais de 50 %** s'applique automatiquement pour le **3e et 4e enfant d'une même famille**, sur **tous les programmes** du camp (camp de vacances, camp de jour, programmes saisonniers).
+Un **rabais de 50 %** s'applique automatiquement à partir du **3e enfant d'une même famille** (4e et suivants inclus), sur **tous les programmes** du camp (camp de vacances, camp de jour, programmes saisonniers).
 
 Ce rabais s'applique lors de l'inscription via CampBrain — les enfants doivent être inscrits sous le même compte familial.
 

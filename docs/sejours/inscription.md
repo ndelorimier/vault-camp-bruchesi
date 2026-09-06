@@ -90,14 +90,15 @@ Pour toute question : **(450) 563-3056** · [info@campbruchesi.ca](mailto:info@c
 |------|--------|
 | 1er enfant | Tarif régulier |
 | 2e enfant | **–20 %** |
-| 3e enfant | **–50 %** |
-| 4e enfant | **Gratuit** (Prospecteur, Décampe, PAM) · **–50 %** (autres) |
+| 3e enfant et les suivants | **–50 %** |
+
+Le rang suit le prix des programmes, du plus cher au moins cher. Applicable au camp de jour comme au camp de vacances.
 
 ---
 
 ## Accessibilité financière
 
-Des tarifs réduits sont disponibles pour les familles qui en ont besoin. Contactez le camp directement pour plus d'information.
+Des tarifs réduits sont disponibles pour les familles qui en ont besoin, **uniquement pour le camp de séjour d'été** — ni camp de jour, ni Camp de Noël, ni Répit – Weekend. Contactez le camp directement pour plus d'information.
 
 ---
 

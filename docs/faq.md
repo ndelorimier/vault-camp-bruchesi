@@ -6,10 +6,10 @@
 Via le portail CampBrain sur [campbruchesi.ca](https://campbruchesi.ca). Pour de l'aide : **(450) 563-3056** · [info@campbruchesi.ca](mailto:info@campbruchesi.ca).
 
 ### Y a-t-il des rabais pour les familles ?
-Oui. Le 2e enfant bénéficie d'un rabais de **20 %**, le 3e de **50 %**, et le 4e est **gratuit** dans plusieurs programmes (Prospecteur, Décampe, PAM) ou à **–50 %** dans les autres.
+Oui. Les programmes sont classés du plus cher au moins cher : plein tarif sur le premier, **–20 %** sur le deuxième enfant, **–50 %** à partir du troisième — 4e enfant et suivants inclus. Applicable au camp de jour comme au camp de vacances.
 
 ### Y a-t-il un programme d'accessibilité financière ?
-Oui — des tarifs réduits sont disponibles. Contactez directement le camp.
+Oui — des tarifs réduits sont disponibles, **uniquement pour le camp de séjour d'été** (ni camp de jour, ni Camp de Noël, ni Répit – Weekend). Contactez directement le camp.
 
 ### Y a-t-il une liste d'attente si un programme est complet ?
 Oui, contactez le camp au **(450) 563-3056** pour vous y inscrire.
@@ -83,7 +83,7 @@ Les activités continuent dehors avec bottes de pluie et imperméables. Si la pl
 ## Santé et allergies
 
 ### Comment gérez-vous les allergies alimentaires ?
-Toutes les allergies doivent être déclarées à l'inscription. Un responsable de santé dédié gère chaque allergie. Pour les allergies anaphylactiques, un **EpiPen** et un **plan d'action médical** doivent être remis à l'arrivée.
+Toutes les allergies doivent être déclarées à l'inscription. Un responsable de santé dédié gère chaque allergie. Pour les allergies anaphylactiques, **deux auto-injecteurs (EpiPen)** et un **plan d'action médical** doivent être remis à l'arrivée.
 
 ### Quelles allergies ne peuvent pas être accommodées en camp de vacances ?
 Le camp ne peut malheureusement **pas** accommoder les allergies suivantes en séjour :

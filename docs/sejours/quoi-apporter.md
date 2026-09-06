@@ -116,7 +116,7 @@ Liste de bagages recommandée selon le type de programme. En cas de doute, conta
 | Literie | Sac de couchage ou couverture + drap contour + oreiller |
 | Lampe de poche + piles de rechange | — |
 | Médicaments | Dans un pilulier remis à l'enseignant · nom et posologie clairement indiqués |
-| EpiPen (si allergie) | Dans un sac banane, porté en tout temps |
+| EpiPen (si allergie) | 2 auto-injecteurs, dans un sac banane, portés en tout temps |
 
 **Important :** Faire le sac **avec** l'enfant. Identifier tous les effets personnels au nom de l'enfant. Vérifier qu'aucun médicament (même en vente libre) ne se trouve dans la valise — exceptions : pompes d'asthme et crèmes.
 

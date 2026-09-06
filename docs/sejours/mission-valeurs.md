@@ -33,7 +33,7 @@ Chaque programme est conçu pour favoriser la croissance personnelle, la confian
 La sécurité des campeurs est la priorité absolue. Tous les animateurs sont certifiés en premiers soins, formés pendant un minimum de 60 heures avant leur premier quart, et encadrés en tout temps.
 
 ### Accessibilité
-Le camp offre un **rabais de 50 % pour le 3e et 4e enfant** d'une même famille sur tous les programmes, ainsi qu'un programme de tarification différenciée (25 %–90 % de rabais selon le revenu familial) pour les familles qui en ont besoin. L'objectif est que la situation financière ne soit jamais un obstacle à la participation.
+Le camp offre un **rabais de 50 % à partir du 3e enfant** d'une même famille sur tous les programmes, ainsi qu'un programme de tarification différenciée (25 %–90 % de rabais selon le revenu familial) réservé au camp de séjour d'été, pour les familles qui en ont besoin. L'objectif est que la situation financière ne soit jamais un obstacle à la participation.
 
 ### Connexion à la nature
 Lac, forêt, tentes, canot, feu de bois — le cadre naturel exceptionnel est au cœur de l'expérience Bruchési. Le programme Prospecteur et le programme Décampe en sont les exemples les plus immersifs.

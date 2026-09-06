@@ -52,6 +52,7 @@ nav:
     - Restauration: services/restauration.md
   - FAQ: faq.md
   - Contact: contact.md
+  - Mises à jour: mises-a-jour.md
   - Intégrations:
     - Zoom Virtual Agent (chat): integration/zoom-virtual-agent.md
     - Réceptionniste IA (téléphone): integration/ai-receptionist-telephone.md
