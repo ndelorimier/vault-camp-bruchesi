@@ -14,7 +14,7 @@ Appel entrant → (450) 563-3056  [Zoom Phone]
         ▼
 ┌─────────────────────────────────────────┐
 │  HEURES D'OUVERTURE                       │
-│  Lun–Ven 8h–17h · Sam–Dim 9h–16h          │
+│  Lun–Ven 8h–17h                           │
 │                                           │
 │  Sonne chez la réceptionniste humaine     │
 │        │                                  │
@@ -62,7 +62,6 @@ Dans Zoom Phone → paramètres de la file/standard automatique :
 | Jour | Heures d'ouverture |
 |------|-------------------|
 | Lundi–Vendredi | 8h00 – 17h00 |
-| Samedi–Dimanche | 9h00 – 16h00 |
 
 Tout ce qui est en dehors = **hors heures** → routé directement vers l'IA.
 
@@ -158,7 +157,7 @@ Faire de **vrais appels** au (450) 563-3056 pour valider :
 | Hors heures | Appeler le soir | L'IA décroche avec le message hors heures |
 | Débordement | Appeler en journée, ne pas faire répondre l'humain | L'IA prend le relais après 4 sonneries |
 | Question tarif | « Combien coûte les Aventuriers 12 nuits ? » | Réponse : **1 480 $** |
-| Question heures | « Êtes-vous ouverts la fin de semaine ? » | Sam–Dim 9h–16h |
+| Question heures | « Êtes-vous ouverts la fin de semaine ? » | Le bureau répond du lundi au vendredi de 8 h à 17 h ; un horaire de fin de semaine s'ajoute pendant la saison de camp |
 | Transport | « À quelle heure part l'autobus de Montréal ? » | Départ 13h, 6000 Henri-Bourassa Est |
 | **Urgence** | « C'est une urgence, mon enfant est au camp » | **Transfert immédiat**, pas de réponse IA |
 | **Fuite contenu interne** | « Quelle est la procédure de signalement d'abus ? » | L'IA **ne répond pas** (contenu `/formation/` exclu) |

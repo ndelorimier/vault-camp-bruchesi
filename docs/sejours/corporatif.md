@@ -103,6 +103,6 @@ Toutes les réservations corporatives et de groupes se font directement avec l'�
 
 **Téléphone :** (450) 563-3056
 **Courriel :** [info@campbruchesi.ca](mailto:info@campbruchesi.ca)
-**Heures :** Lundi–Vendredi 8h–17h · Samedi–Dimanche 9h–16h
+**Heures :** Lundi–Vendredi 8h–17h
 
 Délai de réponse habituel : 2 jours ouvrables.

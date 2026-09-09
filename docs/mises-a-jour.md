@@ -39,3 +39,27 @@ la voûte ; il exige 17 ans comme les autres postes du camp de vacances.
 Corrigé dans `faq.md`, `sejours/emploi.md` et `services/activites.md`. Le
 programme d'aspirant-moniteur (PAM), qui reste à 15–17 ans, n'est pas un
 emploi et n'est pas touché.
+
+## 2026-09-08 — Heures du bureau : la fin de semaine n'est plus annoncée comme régulière
+
+Tranché par Nicolas de Lorimier le 8 septembre 2026 : les heures du bureau à
+publier sont **du lundi au vendredi, de 8 h à 17 h**, uniquement. L'ouverture
+de fin de semaine (9 h à 16 h) **n'existe qu'en saison de camp** et ne doit
+donc pas être annoncée comme un horaire régulier.
+
+La voûte annonçait la fin de semaine à plusieurs endroits sans préciser
+qu'elle était saisonnière ; un parent qui consultait la page en dehors de la
+saison pouvait conclure, à tort, que le bureau répond le samedi. Le site web
+n'a jamais publié que la semaine ; la voûte est maintenant alignée. Retirée
+de `contact.md`, `faq.md`, `sejours/accessibilite.md`, `sejours/corporatif.md`
+et `sejours/mission-valeurs.md`. Idem dans `sejours/transport.md`, sans
+toucher à l'horaire de la navette (9 h–16 h, un horaire différent) ni à celui
+des activités scolaires de `sejours/groupes-scolaires.md`.
+
+Corrigé aussi dans `integration/ai-receptionist-telephone.md` (document de
+conception d'un réceptionniste téléphonique automatisé, pas encore en
+service) : la définition des heures d'ouverture et la réponse prévue à la
+question « Êtes-vous ouverts la fin de semaine ? » disaient toutes les deux
+la même chose de travers. La réponse prévue précise maintenant qu'un horaire
+de fin de semaine s'ajoute en saison, sans donner de dates puisqu'aucune
+n'a été fournie.

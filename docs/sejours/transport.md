@@ -92,4 +92,4 @@ Le camp utilise le système **Hop Hop** pour sécuriser les départs. Seules les
 ## Questions sur le transport
 
 **(450) 563-3056** · [info@campbruchesi.ca](mailto:info@campbruchesi.ca)
-Lundi–Vendredi 8h–17h · Samedi–Dimanche 9h–16h
+Lundi–Vendredi 8h–17h

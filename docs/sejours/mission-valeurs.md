@@ -66,4 +66,4 @@ Beaucoup d'animateurs sont d'anciens campeurs. Le PAM (Programme aspirant-monite
 ## Contact
 
 **(450) 563-3056** · [info@campbruchesi.ca](mailto:info@campbruchesi.ca)
-Lundi–Vendredi 8h–17h · Samedi–Dimanche 9h–16h
+Lundi–Vendredi 8h–17h

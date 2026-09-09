@@ -8,7 +8,6 @@
 | :material-phone: **Téléphone** | [(450) 563-3056](tel:4505633056) |
 | :material-email: **Courriel** | [info@campbruchesi.ca](mailto:info@campbruchesi.ca) |
 | :material-clock: **Heures d'ouverture** | Lundi–Vendredi : 8h–17h |
-| | Samedi–Dimanche : 9h–16h |
 
 ---
 

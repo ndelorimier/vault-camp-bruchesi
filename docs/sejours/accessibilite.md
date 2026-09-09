@@ -45,4 +45,4 @@ Les employés du camp bénéficient d'un **rabais de 20 %** pour leurs proches i
 Pour toute question sur l'accessibilité financière ou pour entamer une demande :
 
 **(450) 563-3056** · [info@campbruchesi.ca](mailto:info@campbruchesi.ca)
-Lundi–Vendredi 8h–17h · Samedi–Dimanche 9h–16h
+Lundi–Vendredi 8h–17h
