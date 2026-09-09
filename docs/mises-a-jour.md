@@ -27,3 +27,15 @@ l'ensemble de la voûte (le contenu de `formation/` n'est pas visé).
 
 5. **Adresse.** 50, 365e Avenue, Saint-Hippolyte, QC J8A 2Y6. Vérifié : aucune
    autre adresse n'apparaît dans la voûte.
+
+## 2026-09-08 — Âge minimum des animateurs
+
+Tranché par Nicolas de Lorimier le 8 septembre 2026 : les animateurs du camp
+ont **17 à 21 ans**, partout. La seule exception est le camp de jour, où l'on
+peut animer dès **16 ans**.
+
+Le poste d'**aide-animateur au camp de vacances** exigeait à tort 16 ans dans
+la voûte ; il exige 17 ans comme les autres postes du camp de vacances.
+Corrigé dans `faq.md`, `sejours/emploi.md` et `services/activites.md`. Le
+programme d'aspirant-moniteur (PAM), qui reste à 15–17 ans, n'est pas un
+emploi et n'est pas touché.

@@ -92,7 +92,7 @@ En cas d'échec à l'examen, une reprise est possible le jour même. Sinon, il f
 
 **Certifications obtenues :** DAFA, PAM, Premiers soins
 
-**Débouchés :** Moniteur camp de jour (16 ans), aide-animateur camp de vacances (16 ans), animateur camp de vacances (17 ans)
+**Débouchés :** Moniteur camp de jour (16 ans), aide-animateur camp de vacances (17 ans), animateur camp de vacances (17 ans)
 
 ---
 

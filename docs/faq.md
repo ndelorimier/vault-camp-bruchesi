@@ -52,7 +52,7 @@ Certains programmes offrent des **ateliers libres** en après-midi. Les demandes
 Les moniteurs sont âgés de **17 à 21 ans**, ont suivi une **formation minimale de 60 heures** et sont tous certifiés en **premiers soins**. Deux moniteurs sont présents dans chaque dortoir la nuit.
 
 ### Quel est l'âge minimum pour être animateur ?
-**16 ans** pour le camp de jour ou comme aide-animateur en camp de vacances. **17 ans** pour être animateur en camp de vacances.
+**16 ans** pour le camp de jour. **17 ans** pour être animateur ou aide-animateur en camp de vacances.
 
 ### Y a-t-il un responsable de santé sur place ?
 Oui — **un responsable en soin de santé est présent en permanence** sur le site, pour tous les programmes.

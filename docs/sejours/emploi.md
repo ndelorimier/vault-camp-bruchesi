@@ -13,7 +13,7 @@ Le Camp Bruchési embauche chaque été une équipe d'animateurs, de coordonnate
 - **Saison :** Fin juin à mi-août (possibilité de programmes saisonniers)
 
 ### Aide-animateur — Camp de vacances
-- **Âge minimum :** 16 ans
+- **Âge minimum :** 17 ans
 - Idéal pour les participants au PAM (aspirant-moniteur)
 
 ### Animateur — Camp de jour
