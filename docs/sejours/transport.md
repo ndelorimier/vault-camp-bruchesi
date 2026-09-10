@@ -62,9 +62,9 @@ Le camp offre un autobus au départ de Montréal pour les sessions de camp de va
 
 | | |
 |--|--|
-| **Point de départ** | 6000, boulevard Henri-Bourassa Est, Montréal |
-| **Heure de départ** | 13h00 |
-| **Retour** | Entre 11h00 et 12h00 au même point |
+| **Point de départ** | 6000, boulevard Henri-Bourassa Est, Montréal — dans le stationnement du Super C |
+| **Heure de départ** | 13h30 |
+| **Retour** | Entre 12h00 et 12h30 au même point |
 
 Pour le tarif et la disponibilité selon la session, s'inscrire via CampBrain ou contacter le camp.
 
@@ -73,7 +73,7 @@ Pour le tarif et la disponibilité selon la session, s'inscrire via CampBrain ou
 ## Arrivée et départ
 
 ### Camp de vacances
-- **Autobus Montréal :** départ 6000 Henri-Bourassa Est à 13h00 — retour entre 11h et 12h
+- **Autobus Montréal :** départ 6000 Henri-Bourassa Est (stationnement du Super C) à 13h30 — retour entre 12h et 12h30
 - **Dépôt direct au camp :** à l'heure indiquée à l'inscription sur CampBrain
 
 ### Camp de jour

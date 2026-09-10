@@ -63,3 +63,22 @@ question « Êtes-vous ouverts la fin de semaine ? » disaient toutes les deux
 la même chose de travers. La réponse prévue précise maintenant qu'un horaire
 de fin de semaine s'ajoute en saison, sans donner de dates puisqu'aucune
 n'a été fournie.
+
+## 2026-09-10 — Heures de l'autobus du séjour : départ et retour corrigés
+
+Tranché par Nicolas de Lorimier le 10 septembre 2026, sur sa description de
+l'embarquement : l'autobus du séjour part à **13 h 30** et revient **entre
+12 h et 12 h 30**, au 6000, boulevard Henri-Bourassa Est, **dans le
+stationnement du Super C**.
+
+La voûte portait un départ à 13 h et un retour entre 11 h et 12 h — le numéro
+civique était juste, les heures non. Une heure d'autobus fausse fait rater un
+départ ou laisse une famille attendre au mauvais moment. Le site web était
+déjà corrigé ; la voûte servait de source fausse au prochain qui l'aurait
+consultée. Corrigé dans `sejours/transport.md` (tableau et récapitulatif
+« Arrivée et départ ») et dans `integration/ai-receptionist-telephone.md`
+(réponse type du test « Transport »). Le lieu précis — stationnement du
+Super C — a été ajouté partout où l'heure de départ figure, puisque la
+voûte ne le mentionnait pas encore. Aucun autre horaire touché : ni la
+navette du camp de jour, ni les heures d'arrivée et de départ au camp, ni
+aucun prix.
